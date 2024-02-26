@@ -21,7 +21,7 @@ repository               : "fojackson8/fojackson8.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me_house_aug22_2_copy.png"
+  avatar           : "images/me_house_aug22_2_copy.png.png"
   name             : "Felix Jackson"
   pronouns         : # example: "she/her"  
   bio              : "Final year PhD student at Oxford CS"
