@@ -21,14 +21,14 @@ repository               : "fojackson8/fojackson8.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/Users/felix/Documents/website/github/fojackson8.github.io/images/me_house_aug22_2.jpeg"
-  name             : "Your Sidebar Name"
+  avatar           : "me_house_aug22_2.jpeg"
+  name             : "Felix Jackson"
   pronouns         : # example: "she/her"  
   bio              : "Final year PhD student at Oxford CS"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Oxford"
+  employer         : "Oxford University"
   uri              : # URL
-  email            : "none@example.org" 
+  # email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
