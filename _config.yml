@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Your Name / Site Title"
+title                    : "Felix Jackson"
 title_separator          : "-"
 name                     : &name "Felix Jackson"
 description              : &description "test test test testtest test"
@@ -24,7 +24,7 @@ author:
   avatar           : "me_house_face.png"
   name             : "Felix Jackson"
   pronouns         : # example: "she/her"  
-  bio              : "Final year PhD student at Oxford CS"
+  bio              : "Final year PhD student in ML for biological data"
   location         : "Oxford"
   employer         : "Oxford University"
   uri              : # URL
@@ -32,10 +32,10 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "ORCID"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # orcid            : "ORCID"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
