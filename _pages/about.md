@@ -7,13 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year PhD student in the Computer Science department at Oxford University. I'm in the Intelligent Systems lab in CS, supervised by Prof Thomas Lukasiewicz; on the clinical side I'm supervised by Prof Chunxiao Song at the Ludwig Institute of Cancer Research. 
+
+
+I'm currently a Research Scientist at the UK AI Security Institute. 
+
+Before that I did a PhD in Oxford Computer Science department, focusing on building AI models for biology. I was in the Intelligent Systems group supervised by Prof Thomas Lukasiewicz, and on the clinical side I was supervised by Prof Chunxiao Song at the Ludwig Institute of Cancer Research. 
+
+I'm broadly interested in building better models of biology. This includes genomic and epigenomic foundation models, protein design, multimodal and multi-scale models of the cell, and methods for non-invasive cancer detection such as cell-free DNA tissue deconvolution.
+
+Before my PhD I studied Natural Sciences at Cambridge University, then got a Masters in Computational Biology, also from Cambridge. After my Masters I spent some time at tech startups as a data scientist and machine learning researcher, including at [Global.health](https://global.health/), where I helped build a platform to make real-time epidemiological data from emerging outbreaks openly available. 
+
+
+
+<!-- I'm a final year PhD student in the Computer Science department at Oxford University. I'm in the Intelligent Systems lab in CS, supervised by Prof Thomas Lukasiewicz; on the clinical side I'm supervised by Prof Chunxiao Song at the Ludwig Institute of Cancer Research. 
 
 I work on translating computational advances to biological data, and ultimately into the clinic. I try to focus on areas where there is an unmet clinical need, either due to a dearth of effective methods or insufficient data. Most of my PhD work has focused on computational epigenetics: analysing how genome-wide epigenetic patterns relate to patient phenotypes, and how this changes in diseases such as cancer. I adapt machine learning methods primarily from the NLP domain and apply them to biological sequences, primarily genomic and epigenomic datasets. My lab developed a new epigenetic sequencing method called [TAPS](https://github.com/academicpages/academicpages.github.io), and I analysed the data produced in the [first pilot study](https://www.science.org/doi/10.1126/sciadv.abh0534) of this method applied to cell-free DNA liquid biopsy. I've since focused on improving diagnostic potential of cfDNA methylation datasets, by identifying methylation biomarkers, improving tissue deconvolution methods and building new large-scale training datasets. 
 
 Before my PhD I studied Natural Sciences at Cambridge University, then got a Masters in Computational Biology, also from Cambridge. I then worked for a year as a data scientist in a tech startup in Barcelona, before moving to Oxford for my PhD. 
 
-During my PhD, I spent two years working as a data scientist and researcher with [Global.health](https://global.health/), building a platform to make real-time epidemiological data from emerging outbreaks openly available. I also worked at Optellum on improving and adapting their clinical ConvNet model that classified lung cancer risk using non-invasive CT scans. I'm also interested in translating computational advances to other sectors where they are under-utilised, and have worked for the last four years on data science and ML projects in UK Government and adjacent NGOs. I've recently completed a substantial LLM based project for USAID, so hopefully some of my code is currently being used in both US and UK Govs!
+During my PhD, I spent two years working as a data scientist and researcher with [Global.health](https://global.health/), building a platform to make real-time epidemiological data from emerging outbreaks openly available. I also worked at Optellum on improving and adapting their clinical ConvNet model that classified lung cancer risk using non-invasive CT scans. I'm also interested in translating computational advances to other sectors where they are under-utilised, and have worked for the last four years on data science and ML projects in UK Government and adjacent NGOs. I've recently completed a substantial LLM based project for USAID, so hopefully some of my code is currently being used in both US and UK Govs! -->
 
 
 <!-- 
