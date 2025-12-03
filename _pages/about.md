@@ -11,7 +11,7 @@ redirect_from:
 
 I'm currently a Research Scientist at the UK AI Security Institute. 
 
-Before that I did a PhD in Oxford Computer Science department, focusing on building AI models for biology. I was in the Intelligent Systems group supervised by Prof Thomas Lukasiewicz, and on the clinical side I was supervised by Prof Chunxiao Song at the Ludwig Institute of Cancer Research. 
+Before that I did a PhD in Oxford Computer Science department, focusing on building AI models for earlier cancer detection. I was in the Intelligent Systems group supervised by Prof Thomas Lukasiewicz, and on the clinical side I was supervised by Prof Chunxiao Song at the Ludwig Institute of Cancer Research. 
 
 I'm broadly interested in building better models of biology. This includes genomic and epigenomic foundation models, protein design, multimodal and multi-scale models of the cell, and methods for non-invasive cancer detection such as cell-free DNA tissue deconvolution.
 
