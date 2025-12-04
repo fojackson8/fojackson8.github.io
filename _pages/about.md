@@ -11,7 +11,7 @@ redirect_from:
 
 I'm currently a Research Scientist at the UK AI Security Institute. 
 
-I'm broadly interested in building models of biology. This includes genomic and epigenomic foundation models, protein design, multimodal and multi-scale models of the cell, and methods for non-invasive cancer detection such as cell-free DNA tissue deconvolution.
+I'm broadly interested in building better models of biology. This includes genomic and epigenomic foundation models, protein design, multimodal and multi-scale models of the cell, and methods for non-invasive cancer detection such as cell-free DNA tissue deconvolution.
 
 I did a PhD in Oxford's Computer Science department, in the Intelligent Systems group supervised by Thomas Lukasiewicz. My PhD focused on building AI models for earlier cancer detection. Collaborating with Chunxiao Song's lab in the Ludwig Institute of Cancer Research, I developed [multimodal classifiers for cell-free DNA](https://www.science.org/doi/10.1126/sciadv.abh0534), a promising non-invasive cancer biomarker. Our work was patented and has now been developed into clinical cancer diagnostic kits.
 
