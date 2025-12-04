@@ -17,7 +17,6 @@ I'm broadly interested in building better models of biology. This includes genom
 My research focused on building AI models for earlier cancer detection. Collaborating with Professor Song's lab in the Ludwig Institute of Cancer Research, I developed [multimodal classifiers for cell-free DNA](https://www.science.org/doi/10.1126/sciadv.abh0534), a promising non-invasive cancer biomarker. Our work was patented and has now been developed into clinical cancer diagnostic kits.
 
 
-
 Before that I studied Natural Sciences at Cambridge University, then got a Masters in Computational Biology, also from Cambridge. After my Masters I spent some time at tech startups as a data scientist and machine learning researcher, including at [Global.health](https://global.health/), where I helped build a platform to make real-time epidemiological data from emerging outbreaks openly available. 
 
 
